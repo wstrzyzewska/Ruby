@@ -1,0 +1,1 @@
+First thoughts about Ruby
