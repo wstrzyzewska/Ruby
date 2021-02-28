@@ -8,7 +8,7 @@ weight1 = 63
 DCD = (10 * weight1 + 6.25 * height1 - 5 * age1 + s_female) * 1.6
 print "Your DCD is: #{DCD}"
 
-age2 = 27
+age2 = 26
 height2 = 175
 weight2 = 59
 
