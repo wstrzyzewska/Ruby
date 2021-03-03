@@ -1,8 +1,4 @@
 puts "Podaj liczbę od 1 do 100: "
-number = gets.chomp
+number = gets.chomp.to_i
 
-if number == 13
-    puts "Gratulacje!"
-else
-    puts "Pudło!"
-end
+p number == 13? "Gratulacje!" : "Pudło!"
