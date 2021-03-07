@@ -2,4 +2,5 @@
 Learning Ruby
 
 01 - intro, variables, types  
-02 - flow control
+02 - flow control  
+03 - loops
