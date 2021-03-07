@@ -4,8 +4,8 @@ i = 1
 multiply = 1
 
 while i < number do
-    i = i + 1
-    multiply = multiply * i
+    i += 1
+    multiply *= i
 end
 
 p multiply
