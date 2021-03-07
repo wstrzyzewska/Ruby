@@ -1,6 +1,6 @@
 arr = ['kot', 'pies', 'rybka']
 
-word = arr[rand 1..3]
+word = arr[rand 0..2]
 puts "#{word.reverse} - zgadnij, co to za słowo: "
 guess = gets.chomp
 
